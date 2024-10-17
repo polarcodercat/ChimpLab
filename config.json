@@ -1,5 +1,5 @@
 {
-  "isNotice" : true,
+  "isNotice" : false,
   "NoticeMessage" : "Currently expirencing latency within servers!",
   "isDown" : false
 }
